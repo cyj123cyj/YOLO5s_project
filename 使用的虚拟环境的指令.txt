@@ -1,0 +1,17 @@
+在SE5上：
+mv sophon37.tar.gz /system/lib
+cd /system/lib
+mv sophon sophon_bak
+tar -xzf sophon37.tar.gz
+
+
+
+云平台邀请码:
+4月16日：f5pjs0Pp
+4月22日：tNcn9UHs
+
+
+
+SE5使用时间：
+4月16日 00:00—— 4月18日 00:00
+4月22日 09:45—— 4月23日 19:15
